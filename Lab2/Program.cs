@@ -8,7 +8,7 @@ using MrWangAPI;
 namespace Lab2
 {
     class Program
-    {//123
+    {//456
         static MrWangConnection MrWangConnection;
         static double num=0;
         static void Main(string[] args)
